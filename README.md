@@ -42,10 +42,7 @@ We thought about everything, so this dashboard comes with 2 versions, Dark Mode 
 ## Quick start
 
 - `npm i black-dashboard`
-- Clone the repo: `git clone https://github.com/creativetimofficial/black-dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/black-dashboard/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/black-dashboard).
-
+- Clone the repo: `git clone https://github.com/tahamansoor/dashboard.git`.
 
 ## Documentation
 The documentation for the Black Dashboard is hosted at our [website](https://demos.creative-tim.com/black-dashboard/docs/1.0/getting-started/introduction.html).
